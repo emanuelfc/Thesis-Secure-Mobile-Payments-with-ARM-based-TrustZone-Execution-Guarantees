@@ -1,0 +1,1989 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+                              ./snfc_ta_authentication.o (calloc)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+                              ./snfc_ta_utils.o (memcpy)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o) (memset)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o) (_assert_log)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+                              ./snfc_ta_communication.o (TEE_MemFill)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+                              ./snfc_ta_utils.o (TEE_GetObjectBufferAttribute)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+                              ./snfc_ta_utils.o (TEE_FreeOperation)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o) (TEE_Panic)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+                              ./snfc_ta_communication.o (TEE_BigIntInit)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+                              ./user_ta_header.o (__utee_entry)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o) (utee_panic)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o) (printf)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o) (mbedtls_mpi_init_mempool)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o) (mbedtls_platform_zeroize)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o) (vsnprintf)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o) (memmove)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o) (strlen)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o) (__vsnprintf)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o) (trace_set_level)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o) (mempool_alloc_pool)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o) (consttime_memcmp)
+/home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+                              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o) (memchr)
+
+Allocating common symbols
+Common symbol       size              file
+
+ta_heap             0x8000            ./user_ta_header.o
+ctx                 0x60              ./snfc_ta.o
+ta_param_types      0x4               /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ta_params           0x40              /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+elapsed             0x8               ./snfc_ta_handshake.o
+mbedtls_mpi_mempool
+                    0x8               /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_utils.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000      0x16d ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0xd9 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000      0x8ef ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x7c ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000      0x184 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0xc4 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x35 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x34 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x94 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x10 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x58 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0xca ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x16 ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x2e ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta_authentication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000      0x16d ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0xd9 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000      0x8ef ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x7c ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000      0x184 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0xc4 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x35 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x34 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x94 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x10 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x58 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0xca ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x16 ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x2e ./snfc_ta_handshake.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta_handshake.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000      0x16d ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0xd9 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000      0x8ef ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x7c ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000      0x184 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0xc4 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x35 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x34 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x94 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x10 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x58 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0xca ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x2e ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000000000       0x16 ./snfc_ta_communication.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./snfc_ta.o
+ .debug_macro   0x0000000000000000      0x16d ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0xd9 ./snfc_ta.o
+ .debug_macro   0x0000000000000000      0x8ef ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x7c ./snfc_ta.o
+ .debug_macro   0x0000000000000000      0x184 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0xc4 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x22 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x35 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x34 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x94 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x10 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0x58 ./snfc_ta.o
+ .debug_macro   0x0000000000000000       0xca ./snfc_ta.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .group         0x0000000000000000        0xc ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0xd9 ./user_ta_header.o
+ .debug_macro   0x0000000000000000      0x8ef ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x7c ./user_ta_header.o
+ .debug_macro   0x0000000000000000      0x184 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0xc4 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x22 ./user_ta_header.o
+ .debug_macro   0x0000000000000000      0x16d ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x35 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x34 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x94 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x58 ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0xca ./user_ta_header.o
+ .debug_macro   0x0000000000000000       0x3a ./user_ta_header.o
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000000000       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000000000       0x82 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000      0x1b0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x82 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000      0x8ef /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x0000000000000000       0x35 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x11e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x79 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000      0x11e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x1c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0xd9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x94 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000      0x184 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0xc4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000000000       0xd0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .group         0x0000000000000000        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.ta_head        0x0000000000000000       0x20
+ *(SORT_BY_ALIGNMENT(.ta_head))
+ .ta_head       0x0000000000000000       0x20 ./user_ta_header.o
+                0x0000000000000000                ta_head
+
+.text           0x0000000000000020     0xc840
+                0x0000000000000020                __text_start = .
+ *(SORT_BY_ALIGNMENT(.text) SORT_BY_ALIGNMENT(.text.*))
+ .text          0x0000000000000020      0x450 ./snfc_ta_utils.o
+                0x0000000000000020                alg_to_type
+                0x000000000000009c                set_flag
+                0x00000000000000b4                get_flag
+                0x00000000000000c4                write_buffer
+                0x00000000000000f4                write_tee_object_ref_attribute
+                0x000000000000013c                print_ta_hex
+                0x0000000000000140                create_digest_signature
+                0x00000000000001d8                verify_digest_signature
+                0x0000000000000278                create_digest
+                0x00000000000002f8                read_ecc_public_key
+                0x00000000000003a4                get_certificate_keypair
+ .text          0x0000000000000470      0x378 ./snfc_ta_authentication.o
+                0x0000000000000470                create_authentication_id
+                0x00000000000004c8                process_authentication_id
+                0x00000000000005b0                create_authentication_proof
+                0x00000000000006cc                process_authentication_proof
+ .text          0x00000000000007e8      0x740 ./snfc_ta_handshake.o
+                0x0000000000000ba8                get_evaluation_time
+                0x0000000000000bb8                security_context_close
+                0x0000000000000c20                set_security_parameters
+                0x0000000000000cd4                create_handshake_request
+                0x0000000000000d94                process_handshake_request
+                0x0000000000000e88                process_handshake_reply
+ .text          0x0000000000000f28      0x560 ./snfc_ta_communication.o
+                0x0000000000001030                create_integrity_check_value
+                0x00000000000010a4                create_snfc_packet
+                0x00000000000012d0                process_snfc_packet
+ .text          0x0000000000001488      0x1e0 ./snfc_ta.o
+                0x0000000000001488                TA_CreateEntryPoint
+                0x0000000000001490                TA_DestroyEntryPoint
+                0x000000000000149c                TA_OpenSessionEntryPoint
+                0x00000000000014ac                TA_CloseSessionEntryPoint
+                0x00000000000014b0                TA_InvokeCommandEntryPoint
+ .text          0x0000000000001668       0x1c ./user_ta_header.o
+                0x0000000000001668                __ta_entry
+                0x000000000000167c                tahead_get_trace_level
+ .text          0x0000000000001684      0xc10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+                0x00000000000016c8                bget
+                0x0000000000001888                bgetz
+                0x0000000000001914                brel
+                0x0000000000001bd0                bgetr
+                0x0000000000001c9c                bpool
+                0x0000000000001d70                bstats
+                0x0000000000001e08                malloc_reset_stats
+                0x0000000000001e20                malloc_get_stats
+                0x0000000000001e58                malloc
+                0x0000000000001ea8                calloc
+                0x0000000000001f0c                realloc
+                0x0000000000001f5c                free
+                0x0000000000001f74                free_wipe
+                0x0000000000001f8c                malloc_add_pool
+                0x00000000000020a8                malloc_buffer_is_within_alloced
+                0x0000000000002228                malloc_buffer_overlaps_heap
+ .text          0x0000000000002294       0x20 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+                0x0000000000002294                memcpy
+ .text          0x00000000000022b4       0x1c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+                0x00000000000022b4                memset
+ .text          0x00000000000022d0       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+                0x00000000000022d0                _assert_log
+                0x0000000000002314                _assert_break
+ .text          0x0000000000002328      0x4e0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+                0x0000000000002328                __utee_from_param
+                0x00000000000023a0                __utee_to_param
+                0x000000000000240c                TEE_OpenTASession
+                0x000000000000249c                TEE_CloseTASession
+                0x00000000000024c4                TEE_InvokeTACommand
+                0x000000000000257c                TEE_GetCancellationFlag
+                0x00000000000025a8                TEE_UnmaskCancellation
+                0x00000000000025d4                TEE_MaskCancellation
+                0x0000000000002600                TEE_CheckMemoryAccessRights
+                0x0000000000002614                TEE_SetInstanceData
+                0x0000000000002620                TEE_GetInstanceData
+                0x000000000000262c                TEE_MemMove
+                0x0000000000002634                TEE_MemCompare
+                0x000000000000263c                TEE_MemFill
+                0x0000000000002644                TEE_GetSystemTime
+                0x000000000000266c                TEE_Wait
+                0x00000000000026a8                TEE_GetTAPersistentTime
+                0x000000000000271c                TEE_SetTAPersistentTime
+                0x0000000000002760                TEE_GetREETime
+                0x0000000000002788                TEE_Malloc
+                0x00000000000027e4                TEE_Realloc
+                0x00000000000027ec                TEE_Free
+                0x00000000000027f0                TEE_CacheClean
+                0x00000000000027f8                TEE_CacheFlush
+                0x0000000000002800                TEE_CacheInvalidate
+ .text          0x0000000000002808      0xd04 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+                0x0000000000002808                __utee_from_attr
+                0x0000000000002858                TEE_GetObjectInfo
+                0x00000000000028a0                TEE_GetObjectInfo1
+                0x00000000000028e0                TEE_RestrictObjectUsage1
+                0x0000000000002924                TEE_RestrictObjectUsage
+                0x0000000000002974                TEE_GetObjectBufferAttribute
+                0x0000000000002a20                TEE_GetObjectValueAttribute
+                0x0000000000002af4                TEE_CloseObject
+                0x0000000000002b1c                TEE_AllocateTransientObject
+                0x0000000000002b80                TEE_FreeTransientObject
+                0x0000000000002bd4                TEE_ResetTransientObject
+                0x0000000000002c28                TEE_PopulateTransientObject
+                0x0000000000002ce8                TEE_InitRefAttribute
+                0x0000000000002d3c                TEE_InitValueAttribute
+                0x0000000000002d8c                TEE_CopyObjectAttributes1
+                0x0000000000002e38                TEE_CopyObjectAttributes
+                0x0000000000002e8c                TEE_GenerateKey
+                0x0000000000002f14                TEE_OpenPersistentObject
+                0x0000000000002fd4                TEE_CreatePersistentObject
+                0x0000000000003098                TEE_CloseAndDeletePersistentObject1
+                0x00000000000030e0                TEE_CloseAndDeletePersistentObject
+                0x000000000000310c                TEE_RenamePersistentObject
+                0x0000000000003180                TEE_AllocatePersistentObjectEnumerator
+                0x00000000000031e0                TEE_FreePersistentObjectEnumerator
+                0x0000000000003208                TEE_ResetPersistentObjectEnumerator
+                0x0000000000003230                TEE_StartPersistentObjectEnumerator
+                0x0000000000003280                TEE_GetNextPersistentObject
+                0x0000000000003300                TEE_ReadObjectData
+                0x000000000000336c                TEE_WriteObjectData
+                0x00000000000033d4                TEE_TruncateObjectData
+                0x0000000000003434                TEE_SeekObjectData
+ .text          0x000000000000350c     0x2454 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+                0x000000000000372c                TEE_FreeOperation
+                0x0000000000003770                TEE_AllocateOperation
+                0x0000000000003f98                TEE_GetOperationInfo
+                0x0000000000003fe0                TEE_GetOperationInfoMultiple
+                0x000000000000412c                TEE_ResetOperation
+                0x00000000000041a4                TEE_SetOperationKey
+                0x0000000000004294                TEE_SetOperationKey2
+                0x0000000000004424                TEE_CopyOperation
+                0x0000000000004544                TEE_DigestUpdate
+                0x00000000000045a8                TEE_DigestDoFinal
+                0x0000000000004670                TEE_CipherInit
+                0x0000000000004714                TEE_CipherUpdate
+                0x0000000000004860                TEE_CipherDoFinal
+                0x0000000000004a10                TEE_MACInit
+                0x0000000000004ab4                TEE_MACUpdate
+                0x0000000000004b54                TEE_MACComputeFinal
+                0x0000000000004c14                TEE_MACCompareFinal
+                0x0000000000004cd8                TEE_AEInit
+                0x0000000000004da4                TEE_AEUpdateAAD
+                0x0000000000004e38                TEE_AEUpdate
+                0x0000000000004f7c                TEE_AEEncryptFinal
+                0x000000000000513c                TEE_AEDecryptFinal
+                0x00000000000052d8                TEE_AsymmetricEncrypt
+                0x0000000000005420                TEE_AsymmetricDecrypt
+                0x000000000000556c                TEE_AsymmetricSignDigest
+                0x00000000000056a8                TEE_AsymmetricVerifyDigest
+                0x00000000000057d4                TEE_DeriveKey
+                0x0000000000005918                TEE_GenerateRandom
+                0x000000000000593c                rand
+ .text          0x0000000000005960        0x8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+                0x0000000000005960                TEE_Panic
+ .text          0x0000000000005968     0x1944 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+                0x0000000000006170                _TEE_MathAPI_Init
+                0x00000000000061c0                TEE_BigIntInit
+                0x0000000000006230                TEE_BigIntConvertFromOctetString
+                0x00000000000062bc                TEE_BigIntConvertToOctetString
+                0x0000000000006350                TEE_BigIntConvertFromS32
+                0x00000000000063d4                TEE_BigIntConvertToS32
+                0x000000000000645c                TEE_BigIntCmp
+                0x00000000000064c4                TEE_BigIntCmpS32
+                0x00000000000066a0                TEE_BigIntShiftRight
+                0x000000000000680c                TEE_BigIntGetBit
+                0x0000000000006858                TEE_BigIntGetBitCount
+                0x0000000000006898                TEE_BigIntAdd
+                0x00000000000068a4                TEE_BigIntSub
+                0x00000000000068b0                TEE_BigIntNeg
+                0x0000000000006960                TEE_BigIntMul
+                0x0000000000006a48                TEE_BigIntSquare
+                0x0000000000006a50                TEE_BigIntDiv
+                0x0000000000006bc8                TEE_BigIntMod
+                0x0000000000006c2c                TEE_BigIntAddMod
+                0x0000000000006c38                TEE_BigIntSubMod
+                0x0000000000006c44                TEE_BigIntMulMod
+                0x0000000000006c50                TEE_BigIntSquareMod
+                0x0000000000006c5c                TEE_BigIntInvMod
+                0x0000000000006d78                TEE_BigIntRelativePrime
+                0x0000000000006e4c                TEE_BigIntComputeExtendedGcd
+                0x0000000000007084                TEE_BigIntIsProbablePrime
+                0x00000000000070d4                TEE_BigIntInitFMM
+                0x00000000000070d8                TEE_BigIntInitFMMContext
+                0x00000000000070dc                TEE_BigIntFMMSizeInU32
+                0x00000000000070ec                TEE_BigIntFMMContextSizeInU32
+                0x00000000000070f4                TEE_BigIntConvertToFMM
+                0x00000000000070f8                TEE_BigIntConvertFromFMM
+                0x0000000000007194                TEE_BigIntComputeFMM
+ .text          0x00000000000072ac      0x2cc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+                0x000000000000737c                __utee_entry
+ .text.utee_panic
+                0x0000000000007578        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007578                utee_panic
+ .text.utee_return
+                0x0000000000007584        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007584                utee_return
+ .text.utee_log
+                0x0000000000007590        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007590                utee_log
+ .text.__utee_panic
+                0x000000000000759c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000759c                __utee_panic
+ .text.utee_get_property
+                0x00000000000075a8        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075a8                utee_get_property
+ .text.utee_get_property_name_to_index
+                0x00000000000075b4        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075b4                utee_get_property_name_to_index
+ .text.utee_open_ta_session
+                0x00000000000075c0        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075c0                utee_open_ta_session
+ .text.utee_close_ta_session
+                0x00000000000075cc        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075cc                utee_close_ta_session
+ .text.utee_invoke_ta_command
+                0x00000000000075d8        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075d8                utee_invoke_ta_command
+ .text.utee_get_cancellation_flag
+                0x00000000000075e4        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075e4                utee_get_cancellation_flag
+ .text.utee_check_access_rights
+                0x00000000000075f0        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075f0                utee_check_access_rights
+ .text.utee_unmask_cancellation
+                0x00000000000075fc        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000075fc                utee_unmask_cancellation
+ .text.utee_mask_cancellation
+                0x0000000000007608        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007608                utee_mask_cancellation
+ .text.utee_wait
+                0x0000000000007614        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007614                utee_wait
+ .text.utee_get_time
+                0x0000000000007620        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007620                utee_get_time
+ .text.utee_set_ta_time
+                0x000000000000762c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000762c                utee_set_ta_time
+ .text.utee_cryp_state_alloc
+                0x0000000000007638        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007638                utee_cryp_state_alloc
+ .text.utee_cryp_state_copy
+                0x0000000000007644        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007644                utee_cryp_state_copy
+ .text.utee_cryp_state_free
+                0x0000000000007650        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007650                utee_cryp_state_free
+ .text.utee_hash_init
+                0x000000000000765c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000765c                utee_hash_init
+ .text.utee_hash_update
+                0x0000000000007668        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007668                utee_hash_update
+ .text.utee_hash_final
+                0x0000000000007674        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007674                utee_hash_final
+ .text.utee_cipher_init
+                0x0000000000007680        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007680                utee_cipher_init
+ .text.utee_cipher_update
+                0x000000000000768c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000768c                utee_cipher_update
+ .text.utee_cipher_final
+                0x0000000000007698        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007698                utee_cipher_final
+ .text.utee_cryp_obj_get_info
+                0x00000000000076a4        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076a4                utee_cryp_obj_get_info
+ .text.utee_cryp_obj_restrict_usage
+                0x00000000000076b0        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076b0                utee_cryp_obj_restrict_usage
+ .text.utee_cryp_obj_get_attr
+                0x00000000000076bc        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076bc                utee_cryp_obj_get_attr
+ .text.utee_cryp_obj_alloc
+                0x00000000000076c8        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076c8                utee_cryp_obj_alloc
+ .text.utee_cryp_obj_close
+                0x00000000000076d4        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076d4                utee_cryp_obj_close
+ .text.utee_cryp_obj_reset
+                0x00000000000076e0        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076e0                utee_cryp_obj_reset
+ .text.utee_cryp_obj_populate
+                0x00000000000076ec        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076ec                utee_cryp_obj_populate
+ .text.utee_cryp_obj_copy
+                0x00000000000076f8        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000076f8                utee_cryp_obj_copy
+ .text.utee_cryp_derive_key
+                0x0000000000007704        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007704                utee_cryp_derive_key
+ .text.utee_cryp_random_number_generate
+                0x0000000000007710        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007710                utee_cryp_random_number_generate
+ .text.utee_authenc_init
+                0x000000000000771c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000771c                utee_authenc_init
+ .text.utee_authenc_update_aad
+                0x0000000000007728        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007728                utee_authenc_update_aad
+ .text.utee_authenc_update_payload
+                0x0000000000007734        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007734                utee_authenc_update_payload
+ .text.utee_authenc_enc_final
+                0x0000000000007740        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007740                utee_authenc_enc_final
+ .text.utee_authenc_dec_final
+                0x000000000000774c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000774c                utee_authenc_dec_final
+ .text.utee_asymm_operate
+                0x0000000000007758        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007758                utee_asymm_operate
+ .text.utee_asymm_verify
+                0x0000000000007764        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007764                utee_asymm_verify
+ .text.utee_storage_obj_open
+                0x0000000000007770        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007770                utee_storage_obj_open
+ .text.utee_storage_obj_create
+                0x000000000000777c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000777c                utee_storage_obj_create
+ .text.utee_storage_obj_del
+                0x0000000000007788        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007788                utee_storage_obj_del
+ .text.utee_storage_obj_rename
+                0x0000000000007794        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007794                utee_storage_obj_rename
+ .text.utee_storage_alloc_enum
+                0x00000000000077a0        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077a0                utee_storage_alloc_enum
+ .text.utee_storage_free_enum
+                0x00000000000077ac        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077ac                utee_storage_free_enum
+ .text.utee_storage_reset_enum
+                0x00000000000077b8        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077b8                utee_storage_reset_enum
+ .text.utee_storage_start_enum
+                0x00000000000077c4        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077c4                utee_storage_start_enum
+ .text.utee_storage_next_enum
+                0x00000000000077d0        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077d0                utee_storage_next_enum
+ .text.utee_storage_obj_read
+                0x00000000000077dc        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077dc                utee_storage_obj_read
+ .text.utee_storage_obj_write
+                0x00000000000077e8        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077e8                utee_storage_obj_write
+ .text.utee_storage_obj_trunc
+                0x00000000000077f4        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x00000000000077f4                utee_storage_obj_trunc
+ .text.utee_storage_obj_seek
+                0x0000000000007800        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007800                utee_storage_obj_seek
+ .text.utee_cryp_obj_generate_key
+                0x000000000000780c        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x000000000000780c                utee_cryp_obj_generate_key
+ .text.utee_cache_operation
+                0x0000000000007818        0xc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                0x0000000000007818                utee_cache_operation
+ .text          0x0000000000007824      0x174 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+                0x0000000000007824                trace_ext_puts
+                0x000000000000784c                trace_ext_get_thread_id
+                0x0000000000007854                printf
+                0x000000000000791c                puts
+                0x000000000000795c                putchar
+ .text          0x0000000000007998     0x3bc8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+                0x0000000000007f30                mbedtls_mpi_init
+                0x0000000000007f40                mbedtls_mpi_init_mempool
+                0x0000000000007f68                mbedtls_mpi_free
+                0x0000000000007fd4                mbedtls_mpi_grow
+                0x00000000000080cc                mbedtls_mpi_shrink
+                0x00000000000081ec                mbedtls_mpi_copy
+                0x00000000000082a0                mbedtls_mpi_swap
+                0x0000000000008300                mbedtls_mpi_safe_cond_assign
+                0x00000000000083c0                mbedtls_mpi_safe_cond_swap
+                0x00000000000084a4                mbedtls_mpi_lset
+                0x000000000000850c                mbedtls_mpi_get_bit
+                0x0000000000008538                mbedtls_mpi_set_bit
+                0x00000000000085c4                mbedtls_mpi_lsb
+                0x0000000000008618                mbedtls_mpi_bitlen
+                0x0000000000008674                mbedtls_mpi_size
+                0x0000000000008690                mbedtls_mpi_read_binary
+                0x0000000000008748                mbedtls_mpi_write_binary
+                0x000000000000880c                mbedtls_mpi_shift_l
+                0x000000000000890c                mbedtls_mpi_shift_r
+                0x00000000000089d4                mbedtls_mpi_cmp_abs
+                0x0000000000008a70                mbedtls_mpi_cmp_mpi
+                0x0000000000008b48                mbedtls_mpi_cmp_int
+                0x0000000000008b88                mbedtls_mpi_add_abs
+                0x0000000000008cb4                mbedtls_mpi_sub_abs
+                0x0000000000008d88                mbedtls_mpi_add_mpi
+                0x0000000000008e10                mbedtls_mpi_sub_mpi
+                0x0000000000008e9c                mbedtls_mpi_add_int
+                0x0000000000008edc                mbedtls_mpi_sub_int
+                0x0000000000008f1c                mbedtls_mpi_mul_mpi
+                0x000000000000906c                mbedtls_mpi_mul_int
+                0x00000000000090a0                mbedtls_mpi_read_string
+                0x0000000000009284                mbedtls_mpi_div_mpi
+                0x00000000000097b0                mbedtls_mpi_div_int
+                0x00000000000097f0                mbedtls_mpi_mod_mpi
+                0x00000000000098a4                mbedtls_mpi_mod_int
+                0x0000000000009a18                mbedtls_mpi_write_string
+                0x0000000000009c84                mbedtls_mpi_montg_init
+                0x0000000000009cc0                mbedtls_mpi_montmul
+                0x0000000000009df4                mbedtls_mpi_montred
+                0x0000000000009e34                mbedtls_mpi_exp_mod
+                0x000000000000a4c0                mbedtls_mpi_gcd
+                0x000000000000a67c                mbedtls_mpi_fill_random
+                0x000000000000a988                mbedtls_mpi_inv_mod
+                0x000000000000adc0                mbedtls_mpi_is_prime_ext
+                0x000000000000ae68                mbedtls_mpi_is_prime
+                0x000000000000ae78                mbedtls_mpi_gen_prime
+                0x000000000000b184                mbedtls_mpi_self_test
+ .text          0x000000000000b560       0x14 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+                0x000000000000b560                mbedtls_platform_zeroize
+ .text          0x000000000000b574       0xcc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+                0x000000000000b574                snprintf
+                0x000000000000b5ec                vsnprintf
+ .text          0x000000000000b640       0x5c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+                0x000000000000b640                memmove
+ .text          0x000000000000b69c       0x1c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+                0x000000000000b69c                strlen
+ .text          0x000000000000b6b8      0xcfc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+                0x000000000000b6b8                __vsnprintf
+                0x000000000000c2ec                vsnprintk
+                0x000000000000c340                snprintk
+ .text          0x000000000000c3b4      0x268 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+                0x000000000000c3b4                trace_set_level
+                0x000000000000c3d0                trace_get_level
+                0x000000000000c3e0                trace_printf
+                0x000000000000c618                dhex_dump
+ .text          0x000000000000c61c      0x1a8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+                0x000000000000c61c                mempool_alloc_pool
+                0x000000000000c684                mempool_alloc
+                0x000000000000c730                mempool_calloc
+                0x000000000000c780                mempool_free
+ .text          0x000000000000c7c4       0x70 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+                0x000000000000c7c4                consttime_memcmp
+ .text          0x000000000000c834       0x2c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+                0x000000000000c834                memchr
+ .text          0x000000000000c860        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ *(SORT_BY_ALIGNMENT(.stub))
+ *(SORT_BY_ALIGNMENT(.glue_7))
+ *(SORT_BY_ALIGNMENT(.glue_7t))
+ *(SORT_BY_ALIGNMENT(.gnu.linkonce.t.*))
+ *(SORT_BY_ALIGNMENT(.vfp11_veneer))
+                0x000000000000c860                __text_end = .
+
+.plt            0x000000000000c860        0x0
+ *(SORT_BY_ALIGNMENT(.plt))
+ .plt           0x000000000000c860        0x0 ./snfc_ta_utils.o
+
+.eh_frame       0x000000000000c860     0x28e4
+ *(SORT_BY_ALIGNMENT(.eh_frame))
+ .eh_frame      0x000000000000c860      0x1a8 ./snfc_ta_utils.o
+ .eh_frame      0x000000000000ca08       0xc8 ./snfc_ta_authentication.o
+                                         0xe0 (size before relaxing)
+ .eh_frame      0x000000000000cad0      0x1d8 ./snfc_ta_handshake.o
+                                        0x1e8 (size before relaxing)
+ .eh_frame      0x000000000000cca8       0xe8 ./snfc_ta_communication.o
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x000000000000cd90       0xb0 ./snfc_ta.o
+                                         0xc8 (size before relaxing)
+ .eh_frame      0x000000000000ce40       0x30 ./user_ta_header.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x000000000000ce70      0x228 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+                                        0x238 (size before relaxing)
+ .eh_frame      0x000000000000d098       0x18 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000000d0b0       0x18 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000000d0c8       0x38 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+                                         0x50 (size before relaxing)
+ .eh_frame      0x000000000000d100      0x2d0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+                                        0x2e0 (size before relaxing)
+ .eh_frame      0x000000000000d3d0      0x4d0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+                                        0x4e8 (size before relaxing)
+ .eh_frame      0x000000000000d8a0      0x5e0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+                                        0x5f8 (size before relaxing)
+ .eh_frame      0x000000000000de80       0x18 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000000de98      0x630 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+                                        0x640 (size before relaxing)
+ .eh_frame      0x000000000000e4c8       0x90 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+                                         0xa8 (size before relaxing)
+ .eh_frame      0x000000000000e558       0xb0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+                                         0xc0 (size before relaxing)
+ .eh_frame      0x000000000000e608      0x8e8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+                                        0x8f8 (size before relaxing)
+ .eh_frame      0x000000000000eef0       0x18 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000000ef08       0x48 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x000000000000ef50       0x18 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000000ef68       0x18 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000000ef80       0x90 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+                                         0xa8 (size before relaxing)
+ .eh_frame      0x000000000000f010       0x80 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+                                         0x90 (size before relaxing)
+ .eh_frame      0x000000000000f090       0x80 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000000f110       0x20 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000000f130       0x14 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+                                         0x28 (size before relaxing)
+
+.rodata         0x000000000000f148     0x334a
+ *(SORT_BY_ALIGNMENT(.gnu.linkonce.r.*))
+ *(SORT_BY_ALIGNMENT(.rodata) SORT_BY_ALIGNMENT(.rodata.*))
+ .rodata.snfc_ta_authentication.c
+                0x000000000000f148      0x114 ./snfc_ta_authentication.o
+                0x000000000000f148                CA_SIGNATURE_HASH_LENGTH
+                0x000000000000f14c                CA_SIGNATURE_HASH_ALG
+                0x000000000000f150                CA_SIGNATURE_ALG
+                0x000000000000f154                CA_ECC_CURVE
+                0x000000000000f158                CA_KEY_SIZE
+                0x000000000000f160                CA_PRIVATE_KEY
+                0x000000000000f17c                CA_PUBLIC_KEY
+                0x000000000000f1b4                CERT_SIGNATURE_HASH_LENGTH
+                0x000000000000f1b8                CERT_SIGNATURE_HASH_ALG
+                0x000000000000f1bc                CERT_SIGNATURE_ALG
+                0x000000000000f1c0                CERT_CA_SIGNATURE
+                0x000000000000f1f8                CERT_ECC_CURVE
+                0x000000000000f200                CERT_KEY_SIZE
+                0x000000000000f208                CERT_PRIVATE_KEY
+                0x000000000000f224                CERT_PUBLIC_KEY
+ *fill*         0x000000000000f25c        0x4 
+ .rodata.user_ta_header.c
+                0x000000000000f260       0x23 ./user_ta_header.o
+                0x000000000000f260                ta_num_props
+                0x000000000000f278                ta_heap_size
+                0x000000000000f280                trace_ext_prefix
+ *fill*         0x000000000000f283        0x1 
+ .rodata.snfc_ta_handshake.c
+                0x000000000000f284     0x2400 ./snfc_ta_handshake.o
+ .rodata.lib/libutee/tee_api.c
+                0x0000000000011684       0x1a /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ *fill*         0x000000000001169e        0x2 
+ .rodata.lib/libmbedtls/mbedtls/library/bignum.c
+                0x00000000000116a0      0x2c4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .rodata.str1.1.user_ta_header.c
+                0x0000000000011964       0x95 ./user_ta_header.o
+ .rodata.lib/libutils/isoc/bget_malloc.c
+                0x00000000000119f9       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .rodata.str1.1.lib/libutils/isoc/bget_malloc.c
+                0x0000000000011a51      0x2a4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+                                        0x2ad (size before relaxing)
+ .rodata.str1.1.lib/libutee/assert.c
+                0x0000000000011cf5       0x27 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .rodata.str1.1.lib/libutee/tee_api.c
+                0x0000000000011d1c       0x11 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .rodata.lib/libutee/tee_api_arith_mpi.c
+                0x0000000000011d2d      0x13d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .rodata.str1.1.lib/libutee/tee_api_arith_mpi.c
+                0x0000000000011e6a       0xb7 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .rodata.str1.1.lib/libutee/trace_ext.c
+                0x0000000000011f21       0xb7 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+                                          0x2 (size before relaxing)
+ .rodata.str1.1.lib/libmbedtls/mbedtls/library/bignum.c
+                0x0000000000011f21      0x45d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .rodata.lib/libutils/ext/snprintk.c
+                0x000000000001237e       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .rodata.str1.1.lib/libutils/ext/snprintk.c
+                0x00000000000123a0       0x38 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .rodata.lib/libutils/ext/trace.c
+                0x00000000000123d8        0x5 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .rodata.str1.1.lib/libutils/ext/trace.c
+                0x00000000000123dd       0x1a /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+                                         0x1b (size before relaxing)
+ .rodata.lib/libutils/ext/mempool.c
+                0x00000000000123f7       0x21 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .rodata.str1.1.lib/libutils/ext/mempool.c
+                0x0000000000012418       0x7a /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+
+.gnu.version_d  0x0000000000012498        0x0
+ .gnu.version_d
+                0x0000000000012498        0x0 ./snfc_ta_utils.o
+
+.gnu.version    0x0000000000012492        0x0
+ .gnu.version   0x0000000000012492        0x0 ./snfc_ta_utils.o
+
+.gnu.version_r  0x0000000000012498        0x0
+ .gnu.version_r
+                0x0000000000012498        0x0 ./snfc_ta_utils.o
+
+.gnu.hash       0x0000000000012498       0x1c
+ .gnu.hash      0x0000000000012498       0x1c ./snfc_ta_utils.o
+
+.ARM.exidx
+ *(SORT_BY_ALIGNMENT(.ARM.exidx*) SORT_BY_ALIGNMENT(.gnu.linkonce.armexidx.*))
+
+.ctors
+ *(SORT_BY_ALIGNMENT(.ctors))
+
+.dtors
+ *(SORT_BY_ALIGNMENT(.dtors))
+
+.dynsym         0x00000000000124b8       0x48
+ *(SORT_BY_ALIGNMENT(.dynsym))
+ .dynsym        0x00000000000124b8       0x48 ./snfc_ta_utils.o
+
+.dynstr         0x0000000000012500        0x1
+ *(SORT_BY_ALIGNMENT(.dynstr))
+ .dynstr        0x0000000000012500        0x1 ./snfc_ta_utils.o
+
+.hash           0x0000000000012508       0x18
+ *(SORT_BY_ALIGNMENT(.hash))
+ .hash          0x0000000000012508       0x18 ./snfc_ta_utils.o
+
+.rela.dyn       0x0000000000012520      0x1b0
+ .rela.data.rel.ro
+                0x0000000000012520        0x0 ./snfc_ta_utils.o
+ .rela.ifunc    0x0000000000012520        0x0 ./snfc_ta_utils.o
+ .rela.data.rel.ro.local
+                0x0000000000012520      0x150 ./snfc_ta_utils.o
+ .rela.data.rel.local
+                0x0000000000012670       0x48 ./snfc_ta_utils.o
+ .rela.data.rel
+                0x00000000000126b8       0x18 ./snfc_ta_utils.o
+                0x0000000000013000                . = ALIGN (0x1000)
+
+.got            0x0000000000013000       0xc0
+ *(SORT_BY_ALIGNMENT(.got.plt))
+ .got.plt       0x0000000000013000       0x18 ./snfc_ta_utils.o
+ *(SORT_BY_ALIGNMENT(.got))
+ .got           0x0000000000013018       0xa8 ./snfc_ta_utils.o
+                0x0000000000013018                _GLOBAL_OFFSET_TABLE_
+
+.rel.text
+ *(SORT_BY_ALIGNMENT(.rel.text))
+ *(SORT_BY_ALIGNMENT(.rel.gnu.linkonce.t*))
+
+.rela.text
+ *(SORT_BY_ALIGNMENT(.rela.text))
+ *(SORT_BY_ALIGNMENT(.rela.gnu.linkonce.t*))
+
+.rel.data
+ *(SORT_BY_ALIGNMENT(.rel.data))
+ *(SORT_BY_ALIGNMENT(.rel.gnu.linkonce.d*))
+
+.rela.data
+ *(SORT_BY_ALIGNMENT(.rela.data))
+ *(SORT_BY_ALIGNMENT(.rela.gnu.linkonce.d*))
+
+.rel.rodata
+ *(SORT_BY_ALIGNMENT(.rel.rodata))
+ *(SORT_BY_ALIGNMENT(.rel.gnu.linkonce.r*))
+
+.rela.rodata
+ *(SORT_BY_ALIGNMENT(.rela.rodata))
+ *(SORT_BY_ALIGNMENT(.rela.gnu.linkonce.r*))
+
+.rel.dyn
+ *(SORT_BY_ALIGNMENT(.rel.dyn))
+
+.rel.got
+ *(SORT_BY_ALIGNMENT(.rel.got))
+
+.rela.got       0x00000000000130c0      0x1e0
+ *(SORT_BY_ALIGNMENT(.rela.got))
+ .rela.got      0x00000000000130c0      0x1e0 ./snfc_ta_utils.o
+
+.rel.ctors
+ *(SORT_BY_ALIGNMENT(.rel.ctors))
+
+.rela.ctors
+ *(SORT_BY_ALIGNMENT(.rela.ctors))
+
+.rel.dtors
+ *(SORT_BY_ALIGNMENT(.rel.dtors))
+
+.rela.dtors
+ *(SORT_BY_ALIGNMENT(.rela.dtors))
+
+.rel.init
+ *(SORT_BY_ALIGNMENT(.rel.init))
+
+.rela.init
+ *(SORT_BY_ALIGNMENT(.rela.init))
+
+.rel.fini
+ *(SORT_BY_ALIGNMENT(.rel.fini))
+
+.rela.fini
+ *(SORT_BY_ALIGNMENT(.rela.fini))
+
+.rel.bss
+ *(SORT_BY_ALIGNMENT(.rel.bss))
+
+.rela.bss       0x00000000000132a0        0x0
+ *(SORT_BY_ALIGNMENT(.rela.bss))
+ .rela.bss      0x00000000000132a0        0x0 ./snfc_ta_utils.o
+
+.rel.plt
+ *(SORT_BY_ALIGNMENT(.rel.plt))
+
+.rela.plt       0x00000000000132a0        0x0
+ *(SORT_BY_ALIGNMENT(.rela.plt))
+ .rela.plt      0x00000000000132a0        0x0 ./snfc_ta_utils.o
+
+.dynamic        0x00000000000132a0      0x110
+ *(SORT_BY_ALIGNMENT(.dynamic))
+ .dynamic       0x00000000000132a0      0x110 ./snfc_ta_utils.o
+                0x00000000000132a0                _DYNAMIC
+
+.data           0x00000000000133b0      0x144
+ *(SORT_BY_ALIGNMENT(.data) SORT_BY_ALIGNMENT(.data.*) SORT_BY_ALIGNMENT(.gnu.linkonce.d.*))
+ .data.rel.ro.local
+                0x00000000000133b0       0xa8 ./user_ta_header.o
+                0x00000000000133b0                ta_props
+ .data.rel.local
+                0x0000000000013458       0x80 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .data.rel.local
+                0x00000000000134d8       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .data.rel      0x00000000000134e8        0x8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .data          0x00000000000134f0        0x4 ./user_ta_header.o
+                0x00000000000134f0                trace_level
+ .data          0x00000000000134f4        0x0 ./snfc_ta_utils.o
+ .data.rel.ro   0x00000000000134f4        0x0 ./snfc_ta_utils.o
+ .data          0x00000000000134f4        0x0 ./snfc_ta_authentication.o
+ .data          0x00000000000134f4        0x0 ./snfc_ta_handshake.o
+ .data          0x00000000000134f4        0x0 ./snfc_ta_communication.o
+ .data          0x00000000000134f4        0x0 ./snfc_ta.o
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .data          0x00000000000134f4        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.bss            0x00000000000134f8     0xb0c8
+ *(SORT_BY_ALIGNMENT(.bss) SORT_BY_ALIGNMENT(.bss.*) SORT_BY_ALIGNMENT(.gnu.linkonce.b.*) SORT_BY_ALIGNMENT(COMMON))
+ COMMON         0x00000000000134f8        0x8 ./snfc_ta_handshake.o
+                0x00000000000134f8                elapsed
+ COMMON         0x0000000000013500       0x60 ./snfc_ta.o
+                0x0000000000013500                ctx
+ .bss           0x0000000000013560        0x8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .bss           0x0000000000013568     0x3000 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ COMMON         0x0000000000016568       0x48 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+                0x0000000000016568                ta_param_types
+                0x0000000000016570                ta_params
+ COMMON         0x00000000000165b0        0x8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+                0x00000000000165b0                mbedtls_mpi_mempool
+ .bss           0x00000000000165b8        0x0 ./snfc_ta_utils.o
+ .bss           0x00000000000165b8        0x0 ./snfc_ta_authentication.o
+ .bss           0x00000000000165b8        0x0 ./snfc_ta_handshake.o
+ .bss           0x00000000000165b8        0x0 ./snfc_ta_communication.o
+ .bss           0x00000000000165b8        0x0 ./snfc_ta.o
+ .bss           0x00000000000165b8        0x0 ./user_ta_header.o
+ COMMON         0x00000000000165b8     0x8000 ./user_ta_header.o
+                0x00000000000165b8                ta_heap
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .bss           0x000000000001e5b8        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .bss           0x000000000001e5b8        0x1 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .bss           0x000000000001e5b9        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+                0x000000000001e5c0                . = ALIGN (0x8)
+ *fill*         0x000000000001e5b9        0x7 
+                0x000000000001e5c0                __gprof_buf_start = .
+                0x000000000001e5c0                . = (. + DEFINED (_mcount)?(((__text_end - __text_start) * 0xb1) / 0x64):0x0)
+                0x000000000001e5c0                __gprof_buf_end = .
+
+.dynbss         0x000000000001e5c0        0x0
+ .dynbss        0x000000000001e5c0        0x0 ./snfc_ta_utils.o
+
+/DISCARD/
+ *(SORT_BY_ALIGNMENT(.interp))
+LOAD ./snfc_ta_utils.o
+LOAD ./snfc_ta_authentication.o
+LOAD ./snfc_ta_handshake.o
+LOAD ./snfc_ta_communication.o
+LOAD ./snfc_ta.o
+LOAD ./user_ta_header.o
+START GROUP
+LOAD /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a
+LOAD /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a
+LOAD /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a
+END GROUP
+OUTPUT(7c86cbfa-f01a-4170-aa59-be0c653cdd6b.elf elf64-littleaarch64)
+
+.debug_info     0x0000000000000000    0x2037b
+ .debug_info    0x0000000000000000      0xbdf ./snfc_ta_utils.o
+ .debug_info    0x0000000000000bdf     0x3098 ./snfc_ta_authentication.o
+ .debug_info    0x0000000000003c77     0x16cd ./snfc_ta_handshake.o
+ .debug_info    0x0000000000005344     0x36fb ./snfc_ta_communication.o
+ .debug_info    0x0000000000008a3f     0x2d34 ./snfc_ta.o
+ .debug_info    0x000000000000b773      0x49d ./user_ta_header.o
+ .debug_info    0x000000000000bc10     0x20f5 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_info    0x000000000000dd05       0xf8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_info    0x000000000000ddfd       0xc8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_info    0x000000000000dec5      0x1b9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_info    0x000000000000e07e     0x11e6 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_info    0x000000000000f264     0x1c88 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_info    0x0000000000010eec     0x2fb8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_info    0x0000000000013ea4      0x117 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_info    0x0000000000013fbb     0x4639 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_info    0x00000000000185f4      0xc52 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_info    0x0000000000019246       0x22 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .debug_info    0x0000000000019268      0x364 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_info    0x00000000000195cc     0x5392 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_info    0x000000000001e95e      0x11e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_info    0x000000000001ea7c      0x242 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_info    0x000000000001ecbe       0xf5 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_info    0x000000000001edb3       0xb0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_info    0x000000000001ee63      0x83e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_info    0x000000000001f6a1      0x59f /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_info    0x000000000001fc40      0x516 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_info    0x0000000000020156      0x12d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_info    0x0000000000020283       0xf8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_abbrev   0x0000000000000000     0x3c92
+ .debug_abbrev  0x0000000000000000      0x242 ./snfc_ta_utils.o
+ .debug_abbrev  0x0000000000000242      0x2b9 ./snfc_ta_authentication.o
+ .debug_abbrev  0x00000000000004fb      0x44e ./snfc_ta_handshake.o
+ .debug_abbrev  0x0000000000000949      0x357 ./snfc_ta_communication.o
+ .debug_abbrev  0x0000000000000ca0      0x26c ./snfc_ta.o
+ .debug_abbrev  0x0000000000000f0c      0x1d9 ./user_ta_header.o
+ .debug_abbrev  0x00000000000010e5      0x43e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_abbrev  0x0000000000001523       0xb1 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_abbrev  0x00000000000015d4       0xa3 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_abbrev  0x0000000000001677       0xd7 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_abbrev  0x000000000000174e      0x309 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_abbrev  0x0000000000001a57      0x323 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_abbrev  0x0000000000001d7a      0x3e6 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_abbrev  0x0000000000002160       0xc1 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_abbrev  0x0000000000002221      0x4c1 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_abbrev  0x00000000000026e2      0x324 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_abbrev  0x0000000000002a06       0x12 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .debug_abbrev  0x0000000000002a18      0x18e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_abbrev  0x0000000000002ba6      0x547 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_abbrev  0x00000000000030ed       0xc3 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_abbrev  0x00000000000031b0      0x138 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_abbrev  0x00000000000032e8       0xa4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_abbrev  0x000000000000338c       0x87 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_abbrev  0x0000000000003413      0x2d0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_abbrev  0x00000000000036e3      0x253 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_abbrev  0x0000000000003936      0x1ea /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_abbrev  0x0000000000003b20       0xc0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_abbrev  0x0000000000003be0       0xb2 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_loc      0x0000000000000000    0x250ed
+ .debug_loc     0x0000000000000000      0xff6 ./snfc_ta_utils.o
+ .debug_loc     0x0000000000000ff6      0xaf4 ./snfc_ta_authentication.o
+ .debug_loc     0x0000000000001aea     0x1a3f ./snfc_ta_handshake.o
+ .debug_loc     0x0000000000003529     0x16e6 ./snfc_ta_communication.o
+ .debug_loc     0x0000000000004c0f      0xb14 ./snfc_ta.o
+ .debug_loc     0x0000000000005723      0x12f ./user_ta_header.o
+ .debug_loc     0x0000000000005852     0x3a2e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_loc     0x0000000000009280      0x169 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_loc     0x00000000000093e9       0xcf /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_loc     0x00000000000094b8      0x149 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_loc     0x0000000000009601     0x105f /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_loc     0x000000000000a660     0x2612 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_loc     0x000000000000cc72     0x59f1 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_loc     0x0000000000012663       0x3d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_loc     0x00000000000126a0     0x437c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_loc     0x0000000000016a1c      0x9ed /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_loc     0x0000000000017409      0x1c4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_loc     0x00000000000175cd     0x9ef7 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_loc     0x00000000000214c4       0x8f /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_loc     0x0000000000021553      0x1d2 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_loc     0x0000000000021725      0x327 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_loc     0x0000000000021a4c       0x8c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_loc     0x0000000000021ad8     0x2734 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_loc     0x000000000002420c      0x5bc /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_loc     0x00000000000247c8      0x5ea /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_loc     0x0000000000024db2      0x223 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_loc     0x0000000000024fd5      0x118 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_aranges  0x0000000000000000      0x8c0
+ .debug_aranges
+                0x0000000000000000       0x30 ./snfc_ta_utils.o
+ .debug_aranges
+                0x0000000000000030       0x30 ./snfc_ta_authentication.o
+ .debug_aranges
+                0x0000000000000060       0x30 ./snfc_ta_handshake.o
+ .debug_aranges
+                0x0000000000000090       0x30 ./snfc_ta_communication.o
+ .debug_aranges
+                0x00000000000000c0       0x30 ./snfc_ta.o
+ .debug_aranges
+                0x00000000000000f0       0x30 ./user_ta_header.o
+ .debug_aranges
+                0x0000000000000120       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_aranges
+                0x0000000000000150       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_aranges
+                0x0000000000000180       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_aranges
+                0x00000000000001b0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_aranges
+                0x00000000000001e0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_aranges
+                0x0000000000000210       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_aranges
+                0x0000000000000240       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_aranges
+                0x0000000000000270       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_aranges
+                0x00000000000002a0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_aranges
+                0x00000000000002d0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_aranges
+                0x0000000000000300      0x3b0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .debug_aranges
+                0x00000000000006b0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_aranges
+                0x00000000000006e0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_aranges
+                0x0000000000000710       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_aranges
+                0x0000000000000740       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_aranges
+                0x0000000000000770       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_aranges
+                0x00000000000007a0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_aranges
+                0x00000000000007d0       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_aranges
+                0x0000000000000800       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_aranges
+                0x0000000000000830       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_aranges
+                0x0000000000000860       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_aranges
+                0x0000000000000890       0x30 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_macro    0x0000000000000000    0x135ab
+ .debug_macro   0x0000000000000000      0x13f ./snfc_ta_utils.o
+ .debug_macro   0x000000000000013f      0x97c ./snfc_ta_utils.o
+ .debug_macro   0x0000000000000abb      0x16d ./snfc_ta_utils.o
+ .debug_macro   0x0000000000000c28       0xd9 ./snfc_ta_utils.o
+ .debug_macro   0x0000000000000d01      0x8ef ./snfc_ta_utils.o
+ .debug_macro   0x00000000000015f0       0x7c ./snfc_ta_utils.o
+ .debug_macro   0x000000000000166c      0x184 ./snfc_ta_utils.o
+ .debug_macro   0x00000000000017f0       0xc4 ./snfc_ta_utils.o
+ .debug_macro   0x00000000000018b4       0x22 ./snfc_ta_utils.o
+ .debug_macro   0x00000000000018d6       0x35 ./snfc_ta_utils.o
+ .debug_macro   0x000000000000190b       0x34 ./snfc_ta_utils.o
+ .debug_macro   0x000000000000193f       0x94 ./snfc_ta_utils.o
+ .debug_macro   0x00000000000019d3       0x10 ./snfc_ta_utils.o
+ .debug_macro   0x00000000000019e3       0x58 ./snfc_ta_utils.o
+ .debug_macro   0x0000000000001a3b       0xca ./snfc_ta_utils.o
+ .debug_macro   0x0000000000001b05       0x16 ./snfc_ta_utils.o
+ .debug_macro   0x0000000000001b1b       0x2e ./snfc_ta_utils.o
+ .debug_macro   0x0000000000001b49       0x22 ./snfc_ta_utils.o
+ .debug_macro   0x0000000000001b6b      0x15b ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000001cc6      0x97c ./snfc_ta_authentication.o
+ .debug_macro   0x0000000000002642      0x15d ./snfc_ta_handshake.o
+ .debug_macro   0x000000000000279f      0x97c ./snfc_ta_handshake.o
+ .debug_macro   0x000000000000311b      0x159 ./snfc_ta_communication.o
+ .debug_macro   0x0000000000003274      0x97c ./snfc_ta_communication.o
+ .debug_macro   0x0000000000003bf0       0xf7 ./snfc_ta.o
+ .debug_macro   0x0000000000003ce7      0x97c ./snfc_ta.o
+ .debug_macro   0x0000000000004663       0x3a ./snfc_ta.o
+ .debug_macro   0x000000000000469d      0x113 ./user_ta_header.o
+ .debug_macro   0x00000000000047b0      0x97c ./user_ta_header.o
+ .debug_macro   0x000000000000512c       0xd0 ./user_ta_header.o
+ .debug_macro   0x00000000000051fc       0x82 ./user_ta_header.o
+ .debug_macro   0x000000000000527e       0x28 ./user_ta_header.o
+ .debug_macro   0x00000000000052a6      0x154 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x00000000000053fa      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000005d40      0x3bd /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x00000000000060fd       0x28 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000006125       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x000000000000613b       0x3c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_macro   0x0000000000006177       0x57 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_macro   0x00000000000061ce      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000006b14       0x7c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000006b90       0x51 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000006be1      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_macro   0x0000000000007527      0x106 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x000000000000762d      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000007f73       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_macro   0x0000000000007f83      0x17d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000008100      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_macro   0x0000000000008a46      0x139 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x0000000000008b7f      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_macro   0x00000000000094c5      0x177 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x000000000000963c      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x0000000000009f82      0x1b0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_macro   0x000000000000a132       0xb4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x000000000000a1e6      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_macro   0x000000000000ab2c      0x1a2 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000acce      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b614      0x11e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b732       0x79 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b7ab       0x34 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_macro   0x000000000000b7df      0x18e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x000000000000b96d      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x000000000000c2b3      0x2d4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_macro   0x000000000000c587       0xf1 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x000000000000c678      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x000000000000cfbe       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_macro   0x000000000000d088      0x19e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000d226      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000db6c       0x19 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000db85       0x1c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000dba1       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_macro   0x000000000000dbb1      0x14e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x000000000000dcff      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x000000000000e645       0x10 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x000000000000e655       0x72 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x000000000000e6c7       0x16 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_macro   0x000000000000e6dd       0x4d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000e72a      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000f070       0x64 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x000000000000f0d4      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_macro   0x000000000000fa1a       0x5a /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x000000000000fa74      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_macro   0x00000000000103ba      0x134 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x00000000000104ee      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_macro   0x0000000000010e34       0xd6 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000010f0a      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_macro   0x0000000000011850       0xe4 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x0000000000011934      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_macro   0x000000000001227a       0x3f /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_macro   0x00000000000122b9      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_macro   0x0000000000012bff       0x66 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+ .debug_macro   0x0000000000012c65      0x946 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_line     0x0000000000000000     0xd5c3
+ .debug_line    0x0000000000000000      0x4ed ./snfc_ta_utils.o
+ .debug_line    0x00000000000004ed      0x5e6 ./snfc_ta_authentication.o
+ .debug_line    0x0000000000000ad3      0x947 ./snfc_ta_handshake.o
+ .debug_line    0x000000000000141a      0x75a ./snfc_ta_communication.o
+ .debug_line    0x0000000000001b74      0x48a ./snfc_ta.o
+ .debug_line    0x0000000000001ffe      0x2d9 ./user_ta_header.o
+ .debug_line    0x00000000000022d7      0xe78 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_line    0x000000000000314f      0x162 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .debug_line    0x00000000000032b1      0x15b /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .debug_line    0x000000000000340c      0x29d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .debug_line    0x00000000000036a9      0x733 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_line    0x0000000000003ddc      0xc03 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .debug_line    0x00000000000049df     0x1b49 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_line    0x0000000000006528      0x1e6 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .debug_line    0x000000000000670e     0x1467 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_line    0x0000000000007b75      0x5ed /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_line    0x0000000000008162      0x528 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .debug_line    0x000000000000868a      0x2ec /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .debug_line    0x0000000000008976     0x3180 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_line    0x000000000000baf6      0x29e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .debug_line    0x000000000000bd94      0x19d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .debug_line    0x000000000000bf31      0x19c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .debug_line    0x000000000000c0cd      0x16d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .debug_line    0x000000000000c23a      0x8c3 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_line    0x000000000000cafd      0x397 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .debug_line    0x000000000000ce94      0x3af /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .debug_line    0x000000000000d243      0x205 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .debug_line    0x000000000000d448      0x17b /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_str      0x0000000000000000    0x12cda
+ .debug_str     0x0000000000000000     0x8200 ./snfc_ta_utils.o
+                                       0x83ed (size before relaxing)
+ .debug_str     0x0000000000008200      0x3ee ./snfc_ta_authentication.o
+                                       0x8562 (size before relaxing)
+ .debug_str     0x00000000000085ee      0x284 ./snfc_ta_handshake.o
+                                       0x86e5 (size before relaxing)
+ .debug_str     0x0000000000008872      0x2d2 ./snfc_ta_communication.o
+                                       0x8532 (size before relaxing)
+ .debug_str     0x0000000000008b44      0x323 ./snfc_ta.o
+                                       0x8353 (size before relaxing)
+ .debug_str     0x0000000000008e67      0xd65 ./user_ta_header.o
+                                       0x8cf4 (size before relaxing)
+ .debug_str     0x0000000000009bcc     0x14c6 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+                                       0x6375 (size before relaxing)
+ .debug_str     0x000000000000b092      0x31d /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+                                       0x3f71 (size before relaxing)
+ .debug_str     0x000000000000b3af       0xb8 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+                                       0x3f0e (size before relaxing)
+ .debug_str     0x000000000000b467       0x58 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+                                       0x8c62 (size before relaxing)
+ .debug_str     0x000000000000b4bf      0x46b /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+                                       0x9dcb (size before relaxing)
+ .debug_str     0x000000000000b92a      0x698 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+                                       0x8ed9 (size before relaxing)
+ .debug_str     0x000000000000bfc2     0x11f9 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+                                       0xaa81 (size before relaxing)
+ .debug_str     0x000000000000d1bb       0x4e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+                                       0x84d2 (size before relaxing)
+ .debug_str     0x000000000000d209      0xf8c /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+                                       0xab7f (size before relaxing)
+ .debug_str     0x000000000000e195     0x34be /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+                                       0xd01f (size before relaxing)
+ .debug_str     0x0000000000011653       0x37 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+                                         0x65 (size before relaxing)
+ .debug_str     0x000000000001168a       0xca /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+                                       0x8e0b (size before relaxing)
+ .debug_str     0x0000000000011754      0x829 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+                                       0x6991 (size before relaxing)
+ .debug_str     0x0000000000011f7d      0x3ba /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+                                       0x58ed (size before relaxing)
+ .debug_str     0x0000000000012337       0x63 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+                                       0x3eaf (size before relaxing)
+ .debug_str     0x000000000001239a       0x64 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+                                       0x4158 (size before relaxing)
+ .debug_str     0x00000000000123fe       0x9a /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+                                       0x4119 (size before relaxing)
+ .debug_str     0x0000000000012498      0x59e /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+                                       0x4be4 (size before relaxing)
+ .debug_str     0x0000000000012a36       0xaf /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+                                       0x5b9a (size before relaxing)
+ .debug_str     0x0000000000012ae5       0xe7 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+                                       0x5c5d (size before relaxing)
+ .debug_str     0x0000000000012bcc       0x68 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+                                       0x3f1a (size before relaxing)
+ .debug_str     0x0000000000012c34       0xa6 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+                                       0x417c (size before relaxing)
+
+.comment        0x0000000000000000       0x55
+ .comment       0x0000000000000000       0x55 ./snfc_ta_utils.o
+                                         0x56 (size before relaxing)
+ .comment       0x0000000000000055       0x56 ./snfc_ta_authentication.o
+ .comment       0x0000000000000055       0x56 ./snfc_ta_handshake.o
+ .comment       0x0000000000000055       0x56 ./snfc_ta_communication.o
+ .comment       0x0000000000000055       0x56 ./snfc_ta.o
+ .comment       0x0000000000000055       0x56 ./user_ta_header.o
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .comment       0x0000000000000055       0x56 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./snfc_ta_utils.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./snfc_ta_authentication.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./snfc_ta_handshake.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./snfc_ta_communication.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./snfc_ta.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ./user_ta_header.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memcpy.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memset.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(assert.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_objects.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_panic.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(trace_ext.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(platform_util.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memmove.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(strlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(mempool.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(consttime_memcmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(memchr.o)
+
+.debug_ranges   0x0000000000000000     0x1b40
+ .debug_ranges  0x0000000000000000       0xb0 ./snfc_ta_authentication.o
+ .debug_ranges  0x00000000000000b0      0x1e0 ./snfc_ta_handshake.o
+ .debug_ranges  0x0000000000000290      0x150 ./snfc_ta_communication.o
+ .debug_ranges  0x00000000000003e0      0x160 ./snfc_ta.o
+ .debug_ranges  0x0000000000000540       0x20 ./user_ta_header.o
+ .debug_ranges  0x0000000000000560      0x760 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(bget_malloc.o)
+ .debug_ranges  0x0000000000000cc0       0x80 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api.o)
+ .debug_ranges  0x0000000000000d40       0xf0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_operations.o)
+ .debug_ranges  0x0000000000000e30      0x550 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(tee_api_arith_mpi.o)
+ .debug_ranges  0x0000000000001380      0x150 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(user_ta_entry.o)
+ .debug_ranges  0x00000000000014d0      0x3b0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutee.a(utee_syscalls_a64.o)
+ .debug_ranges  0x0000000000001880      0x1d0 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libmbedtls.a(bignum.o)
+ .debug_ranges  0x0000000000001a50       0x90 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(snprintk.o)
+ .debug_ranges  0x0000000000001ae0       0x60 /home/thesis/Desktop/optee_rpi3bplus/optee_os/out/arm/export-ta_arm64/lib/libutils.a(trace.o)
