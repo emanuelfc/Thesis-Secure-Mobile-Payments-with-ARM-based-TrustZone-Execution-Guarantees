@@ -1,0 +1,9 @@
+#pragma once
+
+#define TA_THCE_UUID \
+	{ 0x8ffd8245, 0xf85a, 0x4320, \
+		{ 0x82, 0xff, 0x70, 0x95, 0xf2, 0x8f, 0xd7, 0x14} }
+
+#define TA_THCE_CREATE_REQUEST			0
+#define TA_THCE_PROCESS_RESPONSE		1
+

@@ -1,0 +1,46 @@
+CC      = $(CROSS_COMPILE)gcc
+LD      = $(CROSS_COMPILE)ld
+AR      = $(CROSS_COMPILE)ar
+NM      = $(CROSS_COMPILE)nm
+OBJCOPY = $(CROSS_COMPILE)objcopy
+OBJDUMP = $(CROSS_COMPILE)objdump
+READELF = $(CROSS_COMPILE)readelf
+
+OBJS = untrusted_hce_client.o ../../common/hce.o
+
+CFLAGS += -Wall -I$(TEEC_EXPORT)/include
+CFLAGS += -I../include
+
+CFLAGS += -I/home/thesis/Desktop/optee_rpi3bplus/out-br/build/libnfc-1.7.1/include
+
+CFLAGS += -I/home/thesis/Desktop/trusted_data_store/ta/data_store/include
+CFLAGS += -I/home/thesis/Desktop/trusted_data_store/ta/data_store/data_store_storage/include
+CFLAGS += -I/home/thesis/Desktop/trusted_data_store/ta/hashtable/include
+
+#Add/link other required libraries here
+LDADD += -L$(TEEC_EXPORT)/lib -lteec
+
+LDADD += -L/home/thesis/Desktop/optee_rpi3bplus/out-br/build/libusb-1.0.22/libusb/.libs -lusb
+LDADD += -L/home/thesis/Desktop/optee_rpi3bplus/out-br/build/libusb-compat-0.1.5/libusb/.libs -lusb-0.1
+LDADD += -L/home/thesis/Desktop/optee_rpi3bplus/out-br/build/libnfc-1.7.1/libnfc/.libs -lnfc
+LDADD += -L/home/thesis/Desktop/optee_rpi3bplus/out-br/build/pcsc-lite-1.8.23/src/.libs -lpcsclite
+
+LDADD += -L/home/thesis/Desktop/trusted_data_store/ta/data_store -ldata_store
+LDADD += -L/home/thesis/Desktop/trusted_data_store/ta/data_store/data_store_storage -ldata_store_storage
+LDADD += -L/home/thesis/Desktop/trusted_data_store/ta/hashtable -lhashtable
+
+BINARY = untrusted_hce_client
+
+.PHONY: all
+all: $(BINARY)
+
+$(BINARY): $(OBJS)
+	$(CC) -o $@ ../../common/hce.o $< $(LDADD)
+
+.PHONY: clean
+clean:
+	rm -f $(OBJS) $(BINARY)
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
