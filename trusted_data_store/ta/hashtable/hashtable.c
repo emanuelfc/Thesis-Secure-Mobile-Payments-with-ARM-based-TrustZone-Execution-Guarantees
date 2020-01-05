@@ -7,7 +7,7 @@ which was unknown to me at the time, and hash functions for the hashtable)
 https://gist.github.com/tonious/1377667
 https://github.com/jamesroutley/write-a-hash-table
 
-
+Other credits are placed before the code snippets
 */
 
 
