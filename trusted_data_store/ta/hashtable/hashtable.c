@@ -1,3 +1,16 @@
+/*
+
+Credit for the inspiration (namely implementing it using open addressing
+which was unknown to me at the time, and hash functions for the hashtable)
+ of the implementation goes to: (links below)
+
+https://gist.github.com/tonious/1377667
+https://github.com/jamesroutley/write-a-hash-table
+
+
+*/
+
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdint.h>
@@ -13,6 +26,7 @@ static size_t basic_hash(const char *key, size_t size)
 	/*unsigned long long hash = 0;
 	size_t i = 0;
 
+	// source: https://gist.github.com/tonious/1377667
 	// Convert our string to an integer
 	while(hash < ULONG_MAX && i < strlen(key))
 	{
@@ -23,6 +37,7 @@ static size_t basic_hash(const char *key, size_t size)
 
 	return hash % size;*/
 
+	// The hash function below was created by: modified version of Fowler–Noll–Vo hash function (could not find the original source upon subsequent searches for the source)
 	uint32_t hash = 2166136261ul;
 	const uint8_t *bytes = (uint8_t *)key;
 
